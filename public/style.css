@@ -1,0 +1,16 @@
+#chatArea {
+  display: none;
+  height: 100%;
+}
+
+#chat {
+  border: solid black 1px;
+  height: 300px;
+  width: 400px;
+  overflow: scroll;
+  list-style-type: none;
+}
+
+li {
+  margin-left: -9%;
+}
